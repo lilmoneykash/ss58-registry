@@ -1353,3 +1353,13 @@
     }
   ]
 }
+ },
+    {
+
+        "prefix": 99751,
+        "network": "Billy-chain",
+        "displayName": "Billy Chain",
+        "symbols": ["BB"],
+        "decimals": [18],
+        "standardAccount": "*77126",
+        "website": "https://billyboy0x.io"
